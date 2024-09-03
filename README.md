@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Ali Taquie, I am an aspriing Software Engineer pursuing a Computer Science degree at UC Santa Cruz!
+
+Currently, I am an Web Developer Intern at Digital NEST.
+
+I am interested in learning full-stack development and gaining experiences with new and upcoming technologies. 
+
 <!--
 **alitaquie/alitaquie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
