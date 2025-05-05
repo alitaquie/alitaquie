@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ali Taquie, I am an aspring Software Engineer pursuing a Computer Science degree at UC Santa Cruz!
+My name is Ali Taquie, I am an aspring Software Engineer with a degree in Computer Science degree from UC Santa Cruz!
 
 Currently, I am a Software Developer at Digital NEST
 
