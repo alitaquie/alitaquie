@@ -2,7 +2,7 @@
 
 My name is Ali Taquie, I am an aspring Software Engineer pursuing a Computer Science degree at UC Santa Cruz!
 
-Currently, I am an Senior Web Developer Intern at Digital NEST
+Currently, I am a Software Developer at Digital NEST
 
 I am interested in learning full-stack development and gaining experiences with new and upcoming technologies 
 
